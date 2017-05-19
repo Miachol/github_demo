@@ -1,2 +1,2 @@
 # github_demo
-Just a empy repository for BioInstaller test
+Just a empty repository for BioInstaller test
